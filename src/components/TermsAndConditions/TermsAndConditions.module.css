@@ -1,0 +1,14 @@
+.mainWrapper {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 90%;
+    position: relative;
+    left: 110px;
+    top: 50px;
+    bottom: 50px;
+    padding: 50px;
+}
+
+.mainWrapper h3 {
+    font-size: x-large !important;
+}

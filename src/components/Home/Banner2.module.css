@@ -1,0 +1,43 @@
+.mainWrapper {
+    background-color: #f7f7f5;
+    margin-bottom: 50px;
+}
+
+.textContent {
+    max-width: 70%;
+}
+
+.cards {
+    max-width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 10px;
+}
+
+.contentWrapper {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center;
+    align-items: flex-end;
+    padding-right: 50px;
+}
+
+.cardsContent {
+    display: flex;
+    gap: 20px;
+}
+
+.cardsContent img {
+    width: 80%;
+}
+
+.catWrapper {
+    display: flex;
+    justify-content: left;
+}
+
+.catWrapper img {
+    width: 80%;
+    height: 90%;
+}

@@ -1,0 +1,31 @@
+.mainWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainWrapper h2 {
+    width: 80%;
+}
+
+.productsWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    color: rgb(71, 71, 71);
+}
+
+.itemWrapper {
+    max-width: 25%;
+}
+
+.cartBtn {
+    background-color: rgb(6, 197, 47) !important;
+    color: white !important;
+}
+
+.cartBtn:hover {
+    background-color: green !important;
+}

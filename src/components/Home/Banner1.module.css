@@ -1,0 +1,28 @@
+.mainWrapper {
+    background-image: url('https://static.zohocdn.com/sites/stock-images/images/zwstock-image-91.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    height: 600px;
+    color: white;
+
+}
+
+.contentWrapper {
+    position: relative;
+    top: 90px;
+    left: 92px;
+}
+
+.learnBtn {
+    color: red !important;
+    background-color: white !important;
+    font-weight: normal !important;
+    padding: 5px 9px !important;
+    font-variant: normal !important;
+
+}
+
+.learnBtn:hover {
+    background-color: rgb(222, 223, 223) !important;
+}

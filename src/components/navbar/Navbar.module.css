@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    gap: 30px;
+    margin: 5px 150px;
+    color: black;
+    border: none;
+
+}
+
+.navbutton {
+    color: rgb(0, 0, 0) !important;
+
+}
+
+.navbar :hover {
+    background-color: red !important;
+    color: white !important;
+}
+
+.navLink {
+    color: rgb(255, 0, 0) !important;
+}

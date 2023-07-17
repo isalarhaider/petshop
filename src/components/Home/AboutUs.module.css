@@ -1,0 +1,46 @@
+.contentWrapper {
+    background-size: cover;
+    margin-bottom: 50px;
+    position: relative;
+    background-color: #f7f7f5;
+}
+
+.mainImg {
+    display: flex;
+    justify-content: center;
+}
+
+.mainImg img {
+    width: 500px;
+}
+
+.aboutWrapper {
+    position: relative;
+    top: 100px;
+}
+
+.introText {
+    margin: 10px;
+    width: 70%;
+}
+
+.imgIcons {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.imgIcons img {
+    margin: 10px;
+    width: 100px;
+}
+
+.learnBtn {
+    background-color: rgb(252, 91, 91) !important;
+    color: white !important;
+    padding: 10px 30px !important;
+    border: none !important;
+}
+
+.learnBtn:hover {
+    background-color: rgb(207, 8, 8) !important;
+}

@@ -1,0 +1,24 @@
+.outerBox {
+    border-bottom: 1px solid rgb(214, 214, 214);
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+.innerBox {
+    margin: 0 150px;
+}
+
+.dividerCart {
+    width: 1px;
+    height: 20px;
+    background-color: #b5b5b5;
+}
+
+.searchCart {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}

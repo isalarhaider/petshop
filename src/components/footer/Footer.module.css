@@ -1,0 +1,23 @@
+.outerGrid {
+    background-color: rgb(61, 61, 61);
+    color: white;
+    margin: 0px !important;
+    position: relative;
+    top: 20px;
+}
+
+.quickLinks {
+    display: grid;
+    justify-content: left;
+}
+
+.qlButton {
+    border: none;
+    color: rgb(227, 227, 227);
+    cursor: pointer;
+}
+
+.rights {
+    display: flex;
+    justify-content: center;
+}

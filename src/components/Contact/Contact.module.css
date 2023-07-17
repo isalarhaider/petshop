@@ -1,0 +1,29 @@
+.mainWrapper {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 120px;
+    top: 50px;
+    margin-bottom: 50px;
+    max-width: 80%;
+    padding: 20px;
+}
+
+.getInTouch {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-bottom: 1px solid #a6a6a6;
+}
+
+.contactdetails {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-bottom: 1px solid #a6a6a6;
+    padding: 10px;
+}
+
+.contactdetails p {
+    font-size: larger !important;
+}
